@@ -11,8 +11,7 @@
   "directory": "chars/char0",
   "image": "Covers/char0.png",
   "pmx": "茉莉安-霄鹰(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 191149,
@@ -26,8 +25,7 @@
   "directory": "chars/Star",
   "image": "Covers/Star.png",
   "pmx": "飞霄_九尾.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 191150,
@@ -41,8 +39,7 @@
   "directory": "chars/Star1",
   "image": "Covers/Star1.png",
   "pmx": "Fugue(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 191151,
@@ -56,8 +53,7 @@
   "directory": "chars/Star1",
   "image": "Covers/Star1.png",
   "pmx": "Tingyun_RGBA(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 191152,
@@ -71,8 +67,7 @@
   "directory": "chars/Howard",
   "image": "Covers/Howard.png",
   "pmx": "格莉丝·霍华德.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 191153,
@@ -86,7 +81,6 @@
   "directory": "chars/char12",
   "image": "Covers/char12.png",
   "pmx": "ロビン(夏空の歌) Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  }
 ]
