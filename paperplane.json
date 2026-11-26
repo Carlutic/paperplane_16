@@ -11,8 +11,7 @@
   "directory": "chars/char01",
   "image": "Covers/char01.png",
   "pmx": "Vediya - TequilaVediya - Tequila（R）.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190159,
@@ -26,8 +25,7 @@
   "directory": "chars/char1",
   "image": "Covers/char1.png",
   "pmx": "Lyfe Bestla 歸航一心.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190160,
@@ -41,8 +39,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Qing-MIKO(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190161,
@@ -56,8 +53,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "Sweety(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190162,
@@ -71,8 +67,7 @@
   "directory": "chars/Star",
   "image": "Covers/Star.png",
   "pmx": "飞霄_swimunit.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190163,
@@ -86,8 +81,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "羽蜕-轻语疗法R.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190164,
@@ -101,8 +95,7 @@
   "directory": "chars/Howard",
   "image": "Covers/Howard.png",
   "pmx": "格莉丝_RQ.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190165,
@@ -116,8 +109,7 @@
   "directory": "chars/BlackCatCop",
   "image": "Covers/BlackCatCop.png",
   "pmx": "「ZZZ」ZhuYuan_BlackCatCop(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190166,
@@ -131,8 +123,7 @@
   "directory": "chars/Yor",
   "image": "Covers/Yor.png",
   "pmx": "朱鸢cosplay_Yor (R).pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190167,
@@ -146,8 +137,7 @@
   "directory": "chars/char9",
   "image": "Covers/char9.png",
   "pmx": "Seia_1.010.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190168,
@@ -161,8 +151,7 @@
   "directory": "chars/Fufu",
   "image": "Covers/Fufu.png",
   "pmx": "チー · フーフー(Ju Fufu) Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190169,
@@ -176,8 +165,7 @@
   "directory": "chars/Regolo",
   "image": "Covers/Regolo.png",
   "pmx": "レゴロ(Regolo) Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190170,
@@ -191,8 +179,7 @@
   "directory": "chars/char12",
   "image": "Covers/char12.png",
   "pmx": "skirt only.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  },
  {
   "id": 190171,
@@ -206,7 +193,6 @@
   "directory": "chars/char13",
   "image": "Covers/char13.png",
   "pmx": "丝柯克(Skirk) Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_16/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_16/"
  }
 ]
